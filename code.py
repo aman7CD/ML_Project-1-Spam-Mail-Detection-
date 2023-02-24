@@ -1,3 +1,5 @@
+
+
 ## Importing the Dependecies 
 import numpy as np
 
@@ -59,3 +61,5 @@ acc_score2 = accuracy_score(ytt,y_pred2)
 
 print(f"The accuracy score of XGBClassifier is {acc_score1}")
 print(f"The accuracy score of logistic regression model is {acc_score2}")
+
+
